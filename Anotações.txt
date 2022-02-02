@@ -1,2 +1,15 @@
 - Aprenda o que são Estrutura de dados e algoritmos
-    “Vetores e Matrizes é o mesmo que array” e auxiliam quando há muitas variáveis do mesmo tipo em um lagoritmo
+    “Vetores e Matrizes é o mesmo que array” e auxiliam quando há muitas variáveis do mesmo tipo em um algoritmo
+- Entenda o que são Listas, pilhas e Filas
+    - Listas
+        Possuem tamanho ajustável, enquanto arrays são fixos
+      	- Tipos
+            Ligada: Por seus nós conhecerem o valor que está sendo armazenado em seu interior e também o elemento posterior
+            Duplamente Ligada: Seus nós conhecem que é o próximo elemento e também o anterior. Ele é bidirecional. 
+    - Pilhas
+        Coleção de elementos que permite ser lido ou removido um item por vez
+        - Tipos
+            Lifo ou Ueps: “Último que Entra Primeiro que Sai”
+            Fifo ou Peps: “Primeiro que Entra Primeiro que Sai
+    - Filas
+        O elemento Removido é o que está na estrutura há mais tempo, seguindo o padrão Fifo da Pilha.
