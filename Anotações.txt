@@ -1,0 +1,2 @@
+- Aprenda o que são Estrutura de dados e algoritmos
+    “Vetores e Matrizes é o mesmo que array” e auxiliam quando há muitas variáveis do mesmo tipo em um lagoritmo
