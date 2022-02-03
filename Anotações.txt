@@ -27,3 +27,6 @@
         Permite programar a relação entre objetos
         Os objetos são vértices ou nós do grafo
         Os relacionamentos são arestas
+- Introdução ao Git e GitHub
+    - Benefícios dessas duas tecnologia
+        Controle de versão, armazenamento em nuvem, trabalho em equipe, melhorar seu código e reconhecimento
