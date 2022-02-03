@@ -13,3 +13,17 @@
             Fifo ou Peps: “Primeiro que Entra Primeiro que Sai
     - Filas
         O elemento Removido é o que está na estrutura há mais tempo, seguindo o padrão Fifo da Pilha.
+
+- Estruturas de dados do tipo Árvore, tabela Hash e Grafos
+    - Árvore
+        Organiza seus elementos de forma hierárquica.
+        O elemento que fica no topo é chamado raiz, enquanto os demais elementos subordinados à raiz são chamados de nós ou folhas
+    - Hash
+        Uma generalização da ideia de array, porém utiliza uma função chamada hashing que permite espalhar os elementos, fazendo assim que fiquem de forma não ordenada dentro do “array” que define a tabela.
+        Associa chaves de pesquisa a valores
+        chaves: Parte da informação que compõe o elemento a ser manipulado
+        Valores: É a posição ou índice onde o elemento se encontra
+    - Grafo
+        Permite programar a relação entre objetos
+        Os objetos são vértices ou nós do grafo
+        Os relacionamentos são arestas
