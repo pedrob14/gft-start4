@@ -30,3 +30,27 @@
 - Introdução ao Git e GitHub
     - Benefícios dessas duas tecnologia
         Controle de versão, armazenamento em nuvem, trabalho em equipe, melhorar seu código e reconhecimento
+- Navegação via linha de comando e instalação
+    - Comandos básicos para um bom desempenho no terminal
+        - Windows (PowerShell)
+            dir → Lista as pastas e arquivos
+            cd → Entra na pasta desejada
+            cd .. → Volta uma pasta
+            cls → Limpar a tela
+            tab → completa automaticamente
+            mkdir → Cria uma pasta
+            echo → Printa no terminal uma frase ou texto
+            - > → redirecionador de fluxo
+                Ex: echo > hello.txt (Cria o arquivo hello.txt)
+            del → Exclui somente arquivos de uma determinada pasta
+            - rmdir /S /Q → Exclui todo o diretório
+                Ex: rmdir pasta /S /Q
+            seta pra cima → Navega nos comandos digitados anteriormente
+        - Linux (Bash)
+            ls → Lista as pastas e arquivos
+            cd → Entra na pasta desejada
+            cd.. → Volta uma pasta
+            clear ou ctrl + L → Limpar a tela
+            seta pra cima → Navega nos comandos digitados anteriormente
+            - rm -rf → Exclui todo o diretório
+                Ex: rm -rf pasta
