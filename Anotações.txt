@@ -32,7 +32,7 @@
         Controle de versão, armazenamento em nuvem, trabalho em equipe, melhorar seu código e reconhecimento
 - Navegação via linha de comando e instalação
     - Comandos básicos para um bom desempenho no terminal
-        - Windows (PowerShell)
+        - Windows
             dir → Lista as pastas e arquivos
             cd → Entra na pasta desejada
             cd .. → Volta uma pasta
@@ -54,3 +54,5 @@
             seta pra cima → Navega nos comandos digitados anteriormente
             - rm -rf → Exclui todo o diretório
                 Ex: rm -rf pasta
+- Entendendo como o Git funciona por baixo dos panos
+    
