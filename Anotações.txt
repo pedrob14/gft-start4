@@ -92,4 +92,7 @@
         Vai ser passada a chave privada e não a pública para o agent
         Realizando o teste clonando com a chave ssh
         Clonando com a chave ssh não precisa inserir senha como é feito normalmente no https
-        
+        - Token
+    	Ao tentar clonar um repositório, solicitar um token
+    	Guardar o token gerado
+    	Ao tentar realizar um clone, vai solicitar o token gerado
