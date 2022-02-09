@@ -72,3 +72,6 @@
     	- Commits
 		Armazenam as trees, parente(último commit), autor, mensagem
 		O SHA1 desse commit é o hash de toda a esse informação
+    - Sistema distribuído
+    	Se der problema no servidor, há uma versão confiável em algum computador que tenha o repositório.
+    	Sempre possui a versão mais atualizada
