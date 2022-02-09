@@ -75,3 +75,21 @@
     - Sistema distribuído
     	Se der problema no servidor, há uma versão confiável em algum computador que tenha o repositório.
     	Sempre possui a versão mais atualizada
+- Chave SSH
+    É uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
+    Há sempre uma chave pública e uma chave privada.
+    - Gerando o par de chaves via linha de comando no git bash
+        ssh-keygen -t ed25519 -C [pedrob14farias@gmail.com](mailto:pedrob14farias@gmail.com)
+        
+        ed25519: Tipo de criptografia da chave
+        C:\Users\Pedro\.ssh: Vai conter 2 chaves. Uma privada e outra pública (.pub)
+        
+        cat: Visualizar o conteúdo de uma das chaves
+        Copiar o conteúdo e adicionar ao Github
+        ssh-agent: Uma entidade que vai ficar encarregada de pegar as chaves e lidar com elas
+        
+        eval $(ssh-agent -s)
+        Vai ser passada a chave privada e não a pública para o agent
+        Realizando o teste clonando com a chave ssh
+        Clonando com a chave ssh não precisa inserir senha como é feito normalmente no https
+        
