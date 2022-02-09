@@ -60,6 +60,6 @@
         É uma forma curta de representar um arquivo
         Essa encriptação gera conjunto de 40 digítos aleatórios.
         Ex: Criado um txt no desktop e pesquisado o conteúdo do sha1 através do “git bash here”
-        Utiliza-se esse método no GitHub pois a cada alteração no arquivo é gerado um novo conjunto de 40 dígitos.
+        Utiliza-se esse método no GitHub quando um arquivo sofre alteração onde é gerado um novo conjunto de 40 dígitos.
         Obs: Ele só altera se realmente sofreu alteração. Se foi alterado e depois tirado a alteração permanece com o código anterior.
     
