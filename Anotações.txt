@@ -103,3 +103,9 @@
         - git commit
     - Iniciar o versionamento
     - Criar um commit
+    - Criar um repositório
+    - Flags
+        -a → Mostra arquivos ocultos
+    - Extensão markdown (.md)
+        É utilizado um código mais simplificado
+        
