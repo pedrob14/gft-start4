@@ -99,6 +99,7 @@
 - Primeiros comandos com Git
     - Iniciar o Git
         - git init
+            Cria-se um repositório no git dentro de um determinado diretório (Dentro de uma pasta)
         - git add
         - git commit
     - Iniciar o versionamento
@@ -108,4 +109,3 @@
         -a → Mostra arquivos ocultos
     - Extensão markdown (.md)
         É utilizado um código mais simplificado
-        
