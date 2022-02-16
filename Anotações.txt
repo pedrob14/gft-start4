@@ -109,3 +109,11 @@
         -a → Mostra arquivos ocultos
     - Extensão markdown (.md)
         É utilizado um código mais simplificado
+- Conceitos de untracked e tracked
+    - Ao criar um arquivo ele fica inicia em untracked (não rastreado)
+    - Ao rodar o comando git add . move aquele arquivo untracked (não rastreado) direto para staged (que aguarda o próximo comando/passo)
+    - Um arquivo no repositório do git que ainda não sofreu modificação está no estágio unmodified (não modificado). Ao ser editado vai direto para modified (modificado)
+    - Ao rodar o comando git add . novamente move aquele arquivo que estava em modified (modificado) direto para staged (que aguarda o próximo comando/passo)
+    - Ao remover um arquivo que não foi modificado e for excluído, ele vai de unmodified (não modificado) para untracked (não rastreado)
+    - Ao dar o commit, o staged (que aguarda o próximo comando/passo) vai direto para unmodified (não modificado)
+    
