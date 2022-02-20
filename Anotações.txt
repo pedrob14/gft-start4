@@ -149,4 +149,13 @@
                 Páginas web
                 Rest APIs
                 Microservices
-                Hubs    
+                Hubs
+    - .Net: Implementações e Tecnologias
+    - .NET Framework possui 2 componentes
+        CLI (**tempo de execução de linguagem comum**) → Gerenciamento de execução 
+        .NET Class Library → Biblioteca para reutilização de códigos
+    - Padrão MVC → ASP.NET Core MVC (Model-View-Controller)
+        Model → Representa o estado da aplicação
+        View → Apresentar dados na interface
+        Controller → Lida com a interação do usuário através da View e apresentar respostas para o usuário através do Model
+    - Integração com frameworks como Angular, React e bootstrap
