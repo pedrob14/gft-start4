@@ -116,4 +116,37 @@
     - Ao rodar o comando git add . novamente move aquele arquivo que estava em modified (modificado) direto para staged (que aguarda o próximo comando/passo)
     - Ao remover um arquivo que não foi modificado e for excluído, ele vai de unmodified (não modificado) para untracked (não rastreado)
     - Ao dar o commit, o staged (que aguarda o próximo comando/passo) vai direto para unmodified (não modificado)
-    
+
+- Introdução ao ecossistema .NET e Documentação
+    - Visão geral do Ecossistema .NET
+        - .Net X ASP.NET
+            - .Net → Plataforma de desenvolvimento com muitas ferramentas, linguagens de programação e bibliotecas de diversas aplicações
+            - ASP.NET → Framework que estende .NET para a criações de aplicações web
+        - Ambientes de Desenvolvimento (IDEs)
+            - Visual Studio (Mac e Windows)
+            - Visual Studio Code
+            - Codespaces (Online)
+        - Linguagens de Programação
+            C#, F# e Visual Basic
+        - Bibliotecas para desenvolvimento e execução de aplicaçoes .Net
+            - SDK (***Software Development Kit)***
+                Biblioteca necessária para que “desenvolva aplicações” na plataforma .NET
+            - Runtime
+                Biblioteca necessária para a “execução dessas aplicações”
+        - NUGET
+            Gerenciador de pacotes
+        - Acesso a dados
+            ORM (Mapeamento objeto-relacional) → Entity Framework Core
+            LINQ (Language Integrated Query) → Consulta integrada à linguagem
+        - Ambientes CI/CD (**Integração Contínua e Entrega Contínua)**
+            GitHub Actions
+            Azure Devops
+            Cake/Fake
+        - Sobre ASP.NET e ASP.NET Core
+            - [.](http://ASP.NET)NET Core foi lançado juntamente com o ASP.NET Core
+            - ASP.NET Core é uma evolução do ASP.NET
+            - Aplicações Web
+                Páginas web
+                Rest APIs
+                Microservices
+                Hubs    
